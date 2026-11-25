@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Chemseddine
 
-<!--
-**chemseddineboumoula-afk/chemseddineboumoula-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer science student passionate about C programming and software development.
 
-Here are some ideas to get you started:
+## Skills
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Student Grades Manager](https://github.com/chemseddineboumoula-afk/c-project): C-based grade manager with automatic status (Admitted, Retake, Honors) and binary file storage
+
+## Contact
+- Email: chemseddineboumoula@gmail.com
